@@ -51,8 +51,7 @@ header {
 
 .menu-block,
 .main-menu-frontpage nav,
-.logo-block,
-.social-block {
+.logo-block {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
